@@ -14,7 +14,7 @@ public class ListingPage {
         List<String> names = new ArrayList<>();
         List<WebElement> rows = driver.findElements(By.cssSelector(".card h4"));
         for (WebElement row : rows) {
-            names.add(row.getText());
+           names.add(row.getText());
         }
         return names;
     }
