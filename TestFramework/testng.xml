@@ -1,0 +1,9 @@
+<suite name="XMR Suite">
+  <test name="XMR Tests">
+    <classes>
+      <class name="tests.LoginTest"/>
+      <class name="tests.ListingValidationTest"/>
+      <class name="tests.ExportValidationTest"/>
+    </classes>
+  </test>
+</suite>
