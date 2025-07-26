@@ -16,11 +16,9 @@ public class ListingPage {
         for (WebElement row : rows) {
            names.add(row.getText());
         }
-<<<<<<< HEAD
+
         return names;
         System.out.println("childbranchchanges");
-=======
-       // return names;
->>>>>>> b5729dca9250586f180d44b42ba1139259ed70f8
+
     }
 }
