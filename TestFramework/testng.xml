@@ -4,6 +4,7 @@
       <class name="tests.LoginTest"/>
       <class name="tests.ListingValidationTest"/>
       <class name="tests.ExportValidationTest"/>
+      <class name="tests.regisrationTest"/>
     </classes>
   </test>
 </suite>
